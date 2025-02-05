@@ -1,0 +1,6 @@
+.git
+.notebook
+.vscode
+zig-out
+.zig-cache
+
